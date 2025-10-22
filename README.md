@@ -69,22 +69,23 @@ This project involves an Exploratory Data Analysis (EDA) of the Netflix content 
 ## 💡 Key Findings
 
 ### 1. Quantity vs. Quality/Impact
-<img width="515" height="413" alt="pie_chart" src="https://github.com/user-attachments/assets/4d68d117-d82e-4abe-a085-b7231d2cb659" />
+<img width="515" height="413" alt="pie_chart_eng" src="https://github.com/user-attachments/assets/bb6a4cd0-f8d0-47b4-86ba-ad93d18b1577" />
+
 
 > When considering what builds Netflix's Brand Identity, like Original Series such as 'Stranger Things' (a TV Show), it raises the question of whether Netflix focuses more on 'quantity' (the higher number of movies) or on 'quality/impact' (derived from its series).
 
 ### 2. The USA is the Primary Producer
-<img width="651" height="482" alt="bar_chart_countries" src="https://github.com/user-attachments/assets/b6bee783-30c1-494c-b98a-f17e41572cf0" />
+<img width="684" height="463" alt="country_chart_eng" src="https://github.com/user-attachments/assets/b362c6ab-63ea-46d5-a132-0a22ef27a32f" />
 
 > The United States is the overwhelming primary producer for Netflix. However, the trend in the most recent year shows a clear strategic expansion into Asian markets, such as Japan.
 
 ### 3. The Target Audience is Adults & Teenagers
-<img width="583" height="505" alt="bar_chart_ratings" src="https://github.com/user-attachments/assets/7517584a-135a-4135-bb45-48b0b41f87d7" />
+<img width="578" height="487" alt="rate_chart_eng" src="https://github.com/user-attachments/assets/ed7aea24-0c86-4834-b50b-3b6c2f24d5b7" />
 
 > The majority of content is rated TV-MA (Mature Audience) and TV-14 (For Audiences 14+), clearly indicating a strategy focused on catering to this demographic.
 
 ### 4. The Post-"Streaming Wars" Trend
-<img width="622" height="480" alt="line_chart_years" src="https://github.com/user-attachments/assets/fc8b303c-2d7c-4458-901c-e7c9ca741c21" />
+<img width="609" height="471" alt="line_chart_eng" src="https://github.com/user-attachments/assets/03a9b2fd-a3cc-431a-8c9d-685221374932" />
 
 > The volume of new content peaked in 2018 before steadily declining. This aligns with the period when new competitors entered the market, prompting Netflix to shift its strategy from 'quantity' to producing high-quality 'Original Content'.
 
