@@ -1,4 +1,4 @@
-**Languages:** [**🇹🇭 ภาษาไทย**](#-ภาษาไทย-thai-version) | [**EN English**](#-english-version)
+**Languages:** [**🇹🇭 ภาษาไทย**](#-ภาษาไทย-thai-version) | [**🇬🇧 English**](#-english-version)
 <hr>
 
 <a name="-ภาษาไทย-thai-version"></a>
@@ -60,7 +60,7 @@
 <hr>
 
 <a name="-english-version"></a>
-# EN Netflix Content Analysis & Clustering
+# 🇬🇧 Netflix Content Analysis & Clustering
 
 This project involves an Exploratory Data Analysis (EDA) of the Netflix content dataset and utilizes Machine Learning (K-Means Clustering) to group content based on similar characteristics.
 
