@@ -55,7 +55,7 @@
 ---
 
 ## 📂 ดูการวิเคราะห์ฉบับเต็ม
-สำหรับโค้ดและขั้นตอนการวิเคราะห์ทั้งหมด: **[เปิดโปรเจกต์ใน Google Colab](link/to/your/colab_link)**
+สำหรับโค้ดและขั้นตอนการวิเคราะห์ทั้งหมด: **[เปิดโปรเจกต์ใน Google Colab]https://colab.research.google.com/drive/1h_JOHfBsgCZvD00mCpbg_K6LNmS6iJOt?usp=sharing**
 
 <hr>
 
@@ -113,7 +113,7 @@ A K-Means Clustering Model was used to segment the content into 8 main groups:
 ---
 
 ## 📂 Full Analysis
-For the complete code and step-by-step analysis: **[View Project on Google Colab](link/to/your/colab_link)**
+For the complete code and step-by-step analysis: **[View Project on Google Colab](https://colab.research.google.com/drive/1h_JOHfBsgCZvD00mCpbg_K6LNmS6iJOt?usp=sharing)**
 
 ---
 
