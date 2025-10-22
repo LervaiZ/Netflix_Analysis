@@ -114,3 +114,12 @@ A K-Means Clustering Model was used to segment the content into 8 main groups:
 
 ## 📂 Full Analysis
 For the complete code and step-by-step analysis: **[View Project on Google Colab](link/to/your/colab_link)**
+
+---
+
+## 💾 แหล่งข้อมูล (Data Source)
+ชุดข้อมูลที่ใช้ในการวิเคราะห์นี้มาจาก "Netflix Movies and TV Shows" บนแพลตฟอร์ม Kaggle โดยคุณ Shivam Bansal
+
+* **Link to Dataset:** [Netflix Shows on Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
+---
